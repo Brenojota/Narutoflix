@@ -22,24 +22,24 @@
         }
         ,
         {
-            "id": "2",
+            "id": "5",
             "titulo": "Naruto 5",
-            "path": "/assets/1/galeria/imagem2.jpg"
+            "path": "/assets/1/galeria/imagem5.jpg"
         },
         {
-            "id": "3",
+            "id": "6",
             "titulo": "Naruto 6",
-            "path": "/assets/1/galeria/imagem3.jpg"
+            "path": "/assets/1/galeria/imagem6.jpg"
         },
         {
-            "id": "4",
+            "id": "7",
             "titulo": "Naruto 7",
-            "path": "/assets/1/galeria/imagem4.jpg"
+            "path": "/assets/1/galeria/imagem7.jpg"
         },
         {
-            "id": "4",
-            "titulo": "Naruto 7",
-            "path": "/assets/1/galeria/imagem4.jpg"
+            "id": "8",
+            "titulo": "Naruto 8",
+            "path": "/assets/1/galeria/imagem8.jpg"
         }
     ],
     [
