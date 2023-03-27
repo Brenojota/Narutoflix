@@ -1,0 +1,11 @@
+.sessao-first{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 40px;
+    
+}
+.titulo-perfil{
+    color: rgb(255, 255, 255);
+    padding: 15px 0;
+}

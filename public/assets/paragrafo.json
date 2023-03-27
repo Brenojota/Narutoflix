@@ -1,0 +1,19 @@
+[   
+    {
+        "id":1,
+        "resumo":"Naruto Uzumaki, um jovem ninja que constantemente procura por reconhecimento e sonha em se tornar Hokage, o líder máximo e mais poderoso de sua vila."
+        
+    },
+    {
+        "id":2,
+        "resumo":"Sasuke Uchiha é um dos últimos membros sobreviventes do clã Uchiha. Ele se tornou um shinobi para se vingar contra o seu irmão mais velho, Itachi, "
+    },
+    {
+        "id":3,
+        "resumo":"Kakashi Hatake é um shinobi da Folha. Possui um Sharingan bem poderoso, fazendo-o ser conhecido como Kakashi o Ninja Copiador"
+    },{
+        "id":4,
+        "resumo":"Sakura Haruno é uma shinobi da vila de Konoha. Sakura tem uma paixão por Sasuke, elogiando-o em cada situação, e acumulando desprezo sobre Naruto."
+    }
+    
+]

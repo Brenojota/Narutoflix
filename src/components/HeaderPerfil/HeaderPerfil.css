@@ -1,0 +1,37 @@
+.cabecalho{
+    position: absolute;
+}
+.cabecalho-principal {
+    padding: 10px 0 0 10px ;
+    display: flex;
+    align-items: center;
+
+}
+.cabecalho-principal .icones-1{
+    margin: 0 20px 0px 15em;
+
+} 
+.cabecalho-principal .icones{
+    margin: 0px 20px 0 0px
+}
+
+.logo{
+
+    height: 40px;
+}
+
+.perfil-usuario{
+    margin: 10px 20px 0 0px;
+    height: 30px;
+}
+.cabecalho p {
+    color: white;
+}
+
+.opcoes {
+    display: flex;
+    width: 70%;
+    justify-content: space-around;
+    margin-left: 20px;
+    background-color: red;
+}

@@ -1,0 +1,54 @@
+.app{
+    width: 100vw;
+    max-width: 95%;
+    min-height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.full{
+    margin-left: 0.5rem;
+}
+
+.texto{
+    color: white;
+    margin: 5px
+}
+
+.inner{
+    display: flex;
+}
+
+.item{
+    display: flex;
+    margin: 5px;
+    padding: 0.2rem;
+    transition: transform 300ms ease 100ms;
+}
+
+.item img{
+    width: 85px;
+    height: 9.5rem;
+    border-radius: 0.1rem;
+    pointer-events: none;
+}
+
+.carrocel{
+    cursor: grab;
+    overflow: hidden;
+}
+
+
+.app:hover .item {
+    transform: translateX(-5%);
+ }
+
+ .item:hover ~ .item {
+    transform: translateX(5%);
+ }
+
+ .item:hover {
+    transform: scale(1.1) !important;
+  }
+

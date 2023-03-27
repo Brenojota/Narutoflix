@@ -1,0 +1,20 @@
+.rodape{
+    position: absolute;
+    bottom: 0;
+    background-color: #E50914;
+    width: 100%;
+    padding: 10px 0;
+}
+.rodape .texto{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    padding: 5px 0;
+}
+.rodape .icones{
+    display: flex;
+    justify-content: center;
+}
+.icones a{
+    color: rgb(0, 0, 0);
+}

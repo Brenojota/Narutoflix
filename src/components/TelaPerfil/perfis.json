@@ -1,0 +1,23 @@
+[
+    {
+        "nome" : "Naruto",
+        "imagem" : "/assets/1/perfil.jpg",
+        "id" : "1"
+    },
+    {
+        "nome" : "Sasuke",
+        "imagem" : "/assets/2/perfil.jpg",
+        "id" : "2"
+    },
+    {
+        "nome" : "Kakashi",
+        "imagem" : "/assets/3/perfil.jpg",
+        "id" : "3"
+    },
+    {
+        "nome" : "Sakura",
+        "imagem" : "/assets/4/perfil.jpg",
+        "id" : "4"
+    }
+    
+]

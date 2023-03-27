@@ -1,0 +1,20 @@
+.container-perfis{
+    display: flex;
+    justify-content: center;
+    padding: 0 10px;
+    flex-wrap: wrap;
+}
+.perfil{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 20px 0px 20px;
+}
+.perfil img{
+    size: 15px;
+    width: 100px;
+    padding: 15px 0;
+}
+.perfil p{
+    color: white;
+}
